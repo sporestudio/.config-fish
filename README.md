@@ -7,7 +7,7 @@ This repository contains the customized Fish Shell configuration of [sporestudio
 
 ## Description
 
-The configuration includes aliases, functions, theme settings, and other tweaks that [sporestudio](https://github.com/sporestudio) has personalized to enhance the experience with Fish Shell.
+The configuration includes aliases, functions, theme settings, and other tweaks that I have personalized to enhance the experience with Fish Shell.
 
 ## Featured Content
 
